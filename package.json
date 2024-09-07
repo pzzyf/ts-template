@@ -12,6 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "@antfu/eslint-config": "^3.3.2",
-    "eslint": "^9.10.0"
+    "@types/node": "^22.5.4",
+    "eslint": "^9.10.0",
+    "typescript": "^5.5.4"
   }
 }
